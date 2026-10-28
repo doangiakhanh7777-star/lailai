@@ -1,0 +1,2402 @@
+[
+  {
+    "messageID": "app_title",
+    "languageCode": "vi",
+    "displayContent": "CAPTCHA SOLVER TIKTOK LIVE STUDIO v{version}"
+  },
+  {
+    "messageID": "app_title",
+    "languageCode": "en",
+    "displayContent": "CAPTCHA SOLVER TIKTOK LIVE STUDIO v{version}"
+  },
+  {
+    "messageID": "banner_title",
+    "languageCode": "vi",
+    "displayContent": "CAPTCHA SOLVER"
+  },
+  {
+    "messageID": "banner_title",
+    "languageCode": "en",
+    "displayContent": "CAPTCHA SOLVER"
+  },
+  {
+    "messageID": "banner_subtitle",
+    "languageCode": "vi",
+    "displayContent": "  TikTok Live Studio"
+  },
+  {
+    "messageID": "banner_subtitle",
+    "languageCode": "en",
+    "displayContent": "  TikTok Live Studio"
+  },
+  {
+    "messageID": "section_captcha",
+    "languageCode": "vi",
+    "displayContent": "🧩  GIẢI CAPTCHA TIKTOK LIVE STUDIO"
+  },
+  {
+    "messageID": "section_captcha",
+    "languageCode": "en",
+    "displayContent": "🧩  TIKTOK LIVE STUDIO CAPTCHA SOLVER"
+  },
+  {
+    "messageID": "section_pinning",
+    "languageCode": "vi",
+    "displayContent": "📌  GHIM SẢN PHẨM"
+  },
+  {
+    "messageID": "section_pinning",
+    "languageCode": "en",
+    "displayContent": "📌  PIN PRODUCTS"
+  },
+  {
+    "messageID": "section_ai_reply",
+    "languageCode": "vi",
+    "displayContent": "🤖  TRẢ LỜI BÌNH LUẬN AI"
+  },
+  {
+    "messageID": "section_ai_reply",
+    "languageCode": "en",
+    "displayContent": "🤖  AI COMMENT REPLY"
+  },
+  {
+    "messageID": "section_log",
+    "languageCode": "vi",
+    "displayContent": "📋  NHẬT KÝ HOẠT ĐỘNG"
+  },
+  {
+    "messageID": "section_log",
+    "languageCode": "en",
+    "displayContent": "📋  ACTIVITY LOG"
+  },
+  {
+    "messageID": "btn_start",
+    "languageCode": "vi",
+    "displayContent": "▶  Bắt đầu"
+  },
+  {
+    "messageID": "btn_start",
+    "languageCode": "en",
+    "displayContent": "▶  Start"
+  },
+  {
+    "messageID": "btn_stop",
+    "languageCode": "vi",
+    "displayContent": "■  Dừng lại"
+  },
+  {
+    "messageID": "btn_stop",
+    "languageCode": "en",
+    "displayContent": "■  Stop"
+  },
+  {
+    "messageID": "btn_open_browser_live",
+    "languageCode": "vi",
+    "displayContent": "Mở Trình Duyệt Điều Khiển Live"
+  },
+  {
+    "messageID": "btn_open_browser_live",
+    "languageCode": "en",
+    "displayContent": "Open Live Control Browser"
+  },
+  {
+    "messageID": "btn_browser_processing",
+    "languageCode": "vi",
+    "displayContent": "Đang xử lý..."
+  },
+  {
+    "messageID": "btn_browser_processing",
+    "languageCode": "en",
+    "displayContent": "Processing..."
+  },
+  {
+    "messageID": "btn_start_pinning",
+    "languageCode": "vi",
+    "displayContent": "▶  Bắt Đầu Ghim"
+  },
+  {
+    "messageID": "btn_start_pinning",
+    "languageCode": "en",
+    "displayContent": "▶  Start Pinning"
+  },
+  {
+    "messageID": "btn_stop_pinning",
+    "languageCode": "vi",
+    "displayContent": "■  Dừng Ghim"
+  },
+  {
+    "messageID": "btn_stop_pinning",
+    "languageCode": "en",
+    "displayContent": "■  Stop Pinning"
+  },
+  {
+    "messageID": "btn_stopping_pinning",
+    "languageCode": "vi",
+    "displayContent": "Đang Dừng..."
+  },
+  {
+    "messageID": "btn_stopping_pinning",
+    "languageCode": "en",
+    "displayContent": "Stopping..."
+  },
+  {
+    "messageID": "log_cr_ws_failed",
+    "languageCode": "vi",
+    "displayContent": "Mất kết nối realtime: {error}"
+  },
+  {
+    "messageID": "log_cr_ws_failed",
+    "languageCode": "en",
+    "displayContent": "Realtime connection lost: {error}"
+  },
+  {
+    "messageID": "btn_config_prompt",
+    "languageCode": "vi",
+    "displayContent": "⚙  Cấu Hình Trả Lời AI"
+  },
+  {
+    "messageID": "btn_config_prompt",
+    "languageCode": "en",
+    "displayContent": "⚙  Configure AI Reply"
+  },
+  {
+    "messageID": "btn_start_ai_reply",
+    "languageCode": "vi",
+    "displayContent": "▶  Bắt Đầu"
+  },
+  {
+    "messageID": "btn_start_ai_reply",
+    "languageCode": "en",
+    "displayContent": "▶  Start"
+  },
+  {
+    "messageID": "btn_stop_ai_reply",
+    "languageCode": "vi",
+    "displayContent": "■  Dừng"
+  },
+  {
+    "messageID": "btn_stop_ai_reply",
+    "languageCode": "en",
+    "displayContent": "■  Stop"
+  },
+  {
+    "messageID": "chk_pin_product",
+    "languageCode": "vi",
+    "displayContent": "Ghim sản phẩm"
+  },
+  {
+    "messageID": "chk_pin_product",
+    "languageCode": "en",
+    "displayContent": "Pin product"
+  },
+  {
+    "messageID": "chk_auto_reply",
+    "languageCode": "vi",
+    "displayContent": "AI trả lời bình luận"
+  },
+  {
+    "messageID": "chk_auto_reply",
+    "languageCode": "en",
+    "displayContent": "AI comment reply"
+  },
+  {
+    "messageID": "lbl_pin_count",
+    "languageCode": "vi",
+    "displayContent": "Số lượng SP:"
+  },
+  {
+    "messageID": "lbl_pin_count",
+    "languageCode": "en",
+    "displayContent": "Product count:"
+  },
+  {
+    "messageID": "lbl_pin_delay",
+    "languageCode": "vi",
+    "displayContent": "Chờ (giây):"
+  },
+  {
+    "messageID": "lbl_pin_delay",
+    "languageCode": "en",
+    "displayContent": "Delay (sec):"
+  },
+  {
+    "messageID": "lbl_username",
+    "languageCode": "vi",
+    "displayContent": "TikTok UserName:"
+  },
+  {
+    "messageID": "lbl_username",
+    "languageCode": "en",
+    "displayContent": "TikTok UserName:"
+  },
+  {
+    "messageID": "lbl_username_placeholder",
+    "languageCode": "vi",
+    "displayContent": "@username (vd: @isaackogz)"
+  },
+  {
+    "messageID": "lbl_username_placeholder",
+    "languageCode": "en",
+    "displayContent": "@username (e.g. @isaackogz)"
+  },
+  {
+    "messageID": "log_enter_username",
+    "languageCode": "vi",
+    "displayContent": "Vui lòng nhập username TikTok!"
+  },
+  {
+    "messageID": "log_enter_username",
+    "languageCode": "en",
+    "displayContent": "Please enter your TikTok userName!"
+  },
+  {
+    "messageID": "mb_missing_username_title",
+    "languageCode": "vi",
+    "displayContent": "Thiếu Username"
+  },
+  {
+    "messageID": "mb_missing_username_title",
+    "languageCode": "en",
+    "displayContent": "Missing Username"
+  },
+  {
+    "messageID": "mb_missing_username_msg",
+    "languageCode": "vi",
+    "displayContent": "Vui lòng nhập userName tài khoản tiktok đang live!"
+  },
+  {
+    "messageID": "mb_missing_username_msg",
+    "languageCode": "en",
+    "displayContent": "Please enter the userName of the TikTok account that is currently live!"
+  },
+  {
+    "messageID": "lbl_ai_hint",
+    "languageCode": "vi",
+    "displayContent": "💡  Thêm ví dụ cụ thể về sản phẩm để AI trả lời chính xác hơn"
+  },
+  {
+    "messageID": "lbl_ai_hint",
+    "languageCode": "en",
+    "displayContent": "💡  Add specific product examples so the AI replies more accurately"
+  },
+  {
+    "messageID": "status_stopped",
+    "languageCode": "vi",
+    "displayContent": "Đã dừng"
+  },
+  {
+    "messageID": "status_stopped",
+    "languageCode": "en",
+    "displayContent": "Stopped"
+  },
+  {
+    "messageID": "status_running",
+    "languageCode": "vi",
+    "displayContent": "Đang chạy..."
+  },
+  {
+    "messageID": "status_running",
+    "languageCode": "en",
+    "displayContent": "Running..."
+  },
+  {
+    "messageID": "login_title_window",
+    "languageCode": "vi",
+    "displayContent": "Xác thực bản quyền"
+  },
+  {
+    "messageID": "login_title_window",
+    "languageCode": "en",
+    "displayContent": "License Verification"
+  },
+  {
+    "messageID": "login_title",
+    "languageCode": "vi",
+    "displayContent": "Kích hoạt bản quyền"
+  },
+  {
+    "messageID": "login_title",
+    "languageCode": "en",
+    "displayContent": "Activate your license"
+  },
+  {
+    "messageID": "login_subtitle",
+    "languageCode": "vi",
+    "displayContent": "Nhập license key được cấp để bắt đầu sử dụng phần mềm."
+  },
+  {
+    "messageID": "login_subtitle",
+    "languageCode": "en",
+    "displayContent": "Enter the license key you received to start using the software."
+  },
+  {
+    "messageID": "login_key_placeholder",
+    "languageCode": "vi",
+    "displayContent": "Dán key vào đây..."
+  },
+  {
+    "messageID": "login_key_placeholder",
+    "languageCode": "en",
+    "displayContent": "Paste your key here..."
+  },
+  {
+    "messageID": "login_checking",
+    "languageCode": "vi",
+    "displayContent": "Đang kiểm tra..."
+  },
+  {
+    "messageID": "login_checking",
+    "languageCode": "en",
+    "displayContent": "Checking..."
+  },
+  {
+    "messageID": "login_panel_tagline",
+    "languageCode": "vi",
+    "displayContent": "GIẢI PHÁP TỰ ĐỘNG CHO LIVE TIKTOK"
+  },
+  {
+    "messageID": "login_panel_tagline",
+    "languageCode": "en",
+    "displayContent": "AUTOMATION SOLUTIONS FOR TIKTOK LIVE STREAMING"
+  },
+  {
+    "messageID": "login_welcome",
+    "languageCode": "vi",
+    "displayContent": "Chào mừng trở lại"
+  },
+  {
+    "messageID": "login_welcome",
+    "languageCode": "en",
+    "displayContent": "Welcome back"
+  },
+  {
+    "messageID": "login_welcome_desc",
+    "languageCode": "vi",
+    "displayContent": "Kích hoạt license để truy cập đầy đủ tính năng tự động hóa TikTok Live Studio."
+  },
+  {
+    "messageID": "login_welcome_desc",
+    "languageCode": "en",
+    "displayContent": "Activate your license to unlock the full TikTok Live Studio automation suite."
+  },
+  {
+    "messageID": "login_feature_1",
+    "languageCode": "vi",
+    "displayContent": "Auto giải captcha"
+  },
+  {
+    "messageID": "login_feature_1",
+    "languageCode": "en",
+    "displayContent": "Automatic captcha solving"
+  },
+  {
+    "messageID": "login_feature_2",
+    "languageCode": "vi",
+    "displayContent": "AI trả lời bình luận 24/7"
+  },
+  {
+    "messageID": "login_feature_2",
+    "languageCode": "en",
+    "displayContent": "AI comment reply 24/7"
+  },
+  {
+    "messageID": "login_feature_3",
+    "languageCode": "vi",
+    "displayContent": "Tự động ghim sản phẩm khi live"
+  },
+  {
+    "messageID": "login_feature_3",
+    "languageCode": "en",
+    "displayContent": "Auto pin products during live"
+  },
+  {
+    "messageID": "login_device_id_label",
+    "languageCode": "vi",
+    "displayContent": "Mã thiết bị"
+  },
+  {
+    "messageID": "login_device_id_label",
+    "languageCode": "en",
+    "displayContent": "Device ID"
+  },
+  {
+    "messageID": "login_key_label_short",
+    "languageCode": "vi",
+    "displayContent": "License key"
+  },
+  {
+    "messageID": "login_key_label_short",
+    "languageCode": "en",
+    "displayContent": "License key"
+  },
+  {
+    "messageID": "login_copy",
+    "languageCode": "vi",
+    "displayContent": "Sao chép"
+  },
+  {
+    "messageID": "login_copy",
+    "languageCode": "en",
+    "displayContent": "Copy"
+  },
+  {
+    "messageID": "login_copied",
+    "languageCode": "vi",
+    "displayContent": "Đã sao chép"
+  },
+  {
+    "messageID": "login_copied",
+    "languageCode": "en",
+    "displayContent": "Copied"
+  },
+  {
+    "messageID": "login_no_saved_key",
+    "languageCode": "vi",
+    "displayContent": "Chưa có key được lưu. Vui lòng nhập key mới."
+  },
+  {
+    "messageID": "login_no_saved_key",
+    "languageCode": "en",
+    "displayContent": "No saved key found. Please enter a new license key."
+  },
+  {
+    "messageID": "login_activate",
+    "languageCode": "vi",
+    "displayContent": "Kích hoạt"
+  },
+  {
+    "messageID": "login_activate",
+    "languageCode": "en",
+    "displayContent": "Activate"
+  },
+  {
+    "messageID": "login_exit",
+    "languageCode": "vi",
+    "displayContent": "Thoát"
+  },
+  {
+    "messageID": "login_exit",
+    "languageCode": "en",
+    "displayContent": "Exit"
+  },
+  {
+    "messageID": "login_features_caption",
+    "languageCode": "vi",
+    "displayContent": "TÍNH NĂNG CHÍNH"
+  },
+  {
+    "messageID": "login_features_caption",
+    "languageCode": "en",
+    "displayContent": "KEY FEATURES"
+  },
+  {
+    "messageID": "login_key_empty",
+    "languageCode": "vi",
+    "displayContent": "Vui lòng nhập license key."
+  },
+  {
+    "messageID": "login_key_empty",
+    "languageCode": "en",
+    "displayContent": "Please enter your license key."
+  },
+  {
+    "messageID": "login_version",
+    "languageCode": "vi",
+    "displayContent": "Phiên bản"
+  },
+  {
+    "messageID": "login_version",
+    "languageCode": "en",
+    "displayContent": "Version"
+  },
+  {
+    "messageID": "prompt_window_title",
+    "languageCode": "vi",
+    "displayContent": "📝  CẤU HÌNH TRẢ LỜI AI"
+  },
+  {
+    "messageID": "prompt_window_title",
+    "languageCode": "en",
+    "displayContent": "📝  AI REPLY CONFIG"
+  },
+  {
+    "messageID": "prompt_section",
+    "languageCode": "vi",
+    "displayContent": "💬  SYSTEM PROMPT"
+  },
+  {
+    "messageID": "prompt_section",
+    "languageCode": "en",
+    "displayContent": "💬  SYSTEM PROMPT"
+  },
+  {
+    "messageID": "prompt_btn_default",
+    "languageCode": "vi",
+    "displayContent": "↺  Mặc Định"
+  },
+  {
+    "messageID": "prompt_btn_default",
+    "languageCode": "en",
+    "displayContent": "↺  Default"
+  },
+  {
+    "messageID": "prompt_btn_save",
+    "languageCode": "vi",
+    "displayContent": "💾  Lưu Cấu Hình"
+  },
+  {
+    "messageID": "prompt_btn_save",
+    "languageCode": "en",
+    "displayContent": "💾  Save Config"
+  },
+  {
+    "messageID": "prompt_btn_close",
+    "languageCode": "vi",
+    "displayContent": "✕  Đóng"
+  },
+  {
+    "messageID": "prompt_btn_close",
+    "languageCode": "en",
+    "displayContent": "✕  Close"
+  },
+  {
+    "messageID": "log_init_captcha",
+    "languageCode": "vi",
+    "displayContent": "Đang khởi tạo kết nối với TikTok LIVE Studio..."
+  },
+  {
+    "messageID": "log_init_captcha",
+    "languageCode": "en",
+    "displayContent": "Initializing connection to TikTok LIVE Studio..."
+  },
+  {
+    "messageID": "log_critical_error",
+    "languageCode": "vi",
+    "displayContent": "CRITICAL ERROR: {error}"
+  },
+  {
+    "messageID": "log_critical_error",
+    "languageCode": "en",
+    "displayContent": "CRITICAL ERROR: {error}"
+  },
+  {
+    "messageID": "log_system_stopped",
+    "languageCode": "vi",
+    "displayContent": "Hệ thống đã dừng, vui lòng ấn Bắt đầu để tiếp tục"
+  },
+  {
+    "messageID": "log_system_stopped",
+    "languageCode": "en",
+    "displayContent": "System stopped, please press Start to continue"
+  },
+  {
+    "messageID": "log_prompt_restored",
+    "languageCode": "vi",
+    "displayContent": "↺ Đã khôi phục prompt mặc định"
+  },
+  {
+    "messageID": "log_prompt_restored",
+    "languageCode": "en",
+    "displayContent": "↺ Default prompt restored"
+  },
+  {
+    "messageID": "log_prompt_saved",
+    "languageCode": "vi",
+    "displayContent": "💾 Đã lưu cấu hình prompt"
+  },
+  {
+    "messageID": "log_prompt_saved",
+    "languageCode": "en",
+    "displayContent": "💾 Prompt config saved"
+  },
+  {
+    "messageID": "log_user_stop_monitor",
+    "languageCode": "vi",
+    "displayContent": "Người dùng yêu cầu dừng giám sát"
+  },
+  {
+    "messageID": "log_user_stop_monitor",
+    "languageCode": "en",
+    "displayContent": "User requested to stop monitoring"
+  },
+  {
+    "messageID": "log_ai_reply_stopping",
+    "languageCode": "vi",
+    "displayContent": "Đang dừng tính năng trả lời bình luận..."
+  },
+  {
+    "messageID": "log_ai_reply_stopping",
+    "languageCode": "en",
+    "displayContent": "Stopping comment reply feature..."
+  },
+  {
+    "messageID": "log_ai_reply_stopped",
+    "languageCode": "vi",
+    "displayContent": "✅ Đã dừng tính năng trả lời bình luận"
+  },
+  {
+    "messageID": "log_ai_reply_stopped",
+    "languageCode": "en",
+    "displayContent": "✅ Comment reply feature stopped"
+  },
+  {
+    "messageID": "log_prompt_closed_ai_off",
+    "languageCode": "vi",
+    "displayContent": "🔒 Đã đóng cửa sổ cấu hình prompt (AI Reply bị tắt)"
+  },
+  {
+    "messageID": "log_prompt_closed_ai_off",
+    "languageCode": "en",
+    "displayContent": "🔒 Prompt config window closed (AI Reply disabled)"
+  },
+  {
+    "messageID": "log_language_changed",
+    "languageCode": "vi",
+    "displayContent": "Đã chuyển ngôn ngữ sang: {label}"
+  },
+  {
+    "messageID": "log_language_changed",
+    "languageCode": "en",
+    "displayContent": "Language switched to: {label}"
+  },
+  {
+    "messageID": "lang_label_vi",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Việt"
+  },
+  {
+    "messageID": "lang_label_vi",
+    "languageCode": "en",
+    "displayContent": "Vietnamese"
+  },
+  {
+    "messageID": "lang_label_en",
+    "languageCode": "vi",
+    "displayContent": "English"
+  },
+  {
+    "messageID": "lang_label_en",
+    "languageCode": "en",
+    "displayContent": "English"
+  },
+  {
+    "messageID": "log_enable_ai_first",
+    "languageCode": "vi",
+    "displayContent": "⚠️ Vui lòng bật 'Tự động trả lời bình luận (AI)' trước!"
+  },
+  {
+    "messageID": "log_enable_ai_first",
+    "languageCode": "en",
+    "displayContent": "⚠️ Please enable 'AI auto comment reply' first!"
+  },
+  {
+    "messageID": "log_prompt_config_opened",
+    "languageCode": "vi",
+    "displayContent": "⚙️ Đã mở cửa sổ cấu hình prompt"
+  },
+  {
+    "messageID": "log_prompt_config_opened",
+    "languageCode": "en",
+    "displayContent": "⚙️ Prompt config window opened"
+  },
+  {
+    "messageID": "log_ai_stopping_internal",
+    "languageCode": "vi",
+    "displayContent": "[AI] Đang dừng tính năng trả lời bình luận..."
+  },
+  {
+    "messageID": "log_ai_stopping_internal",
+    "languageCode": "en",
+    "displayContent": "[AI] Stopping comment reply feature..."
+  },
+  {
+    "messageID": "log_ai_starting_internal",
+    "languageCode": "vi",
+    "displayContent": "[AI] Bắt đầu tính năng trả lời bình luận"
+  },
+  {
+    "messageID": "log_ai_starting_internal",
+    "languageCode": "en",
+    "displayContent": "[AI] Starting comment reply feature"
+  },
+  {
+    "messageID": "log_ai_stopped_internal",
+    "languageCode": "vi",
+    "displayContent": "[AI] Đã dừng tính năng trả lời bình luận"
+  },
+  {
+    "messageID": "log_ai_stopped_internal",
+    "languageCode": "en",
+    "displayContent": "[AI] Comment reply feature stopped"
+  },
+  {
+    "messageID": "log_browser_live_ready",
+    "languageCode": "vi",
+    "displayContent": "Trình duyệt điều khiển Live đã sẵn sàng."
+  },
+  {
+    "messageID": "log_browser_live_ready",
+    "languageCode": "en",
+    "displayContent": "Live control browser is ready."
+  },
+  {
+    "messageID": "log_browser_live_failed",
+    "languageCode": "vi",
+    "displayContent": "Không thể mở trình duyệt điều khiển Live."
+  },
+  {
+    "messageID": "log_browser_live_failed",
+    "languageCode": "en",
+    "displayContent": "Cannot open Live control browser."
+  },
+  {
+    "messageID": "log_old_browser_detected",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện trình duyệt cũ, đang đóng..."
+  },
+  {
+    "messageID": "log_old_browser_detected",
+    "languageCode": "en",
+    "displayContent": "Old browser detected, closing..."
+  },
+  {
+    "messageID": "log_init_hidden_pinner",
+    "languageCode": "vi",
+    "displayContent": "Đang khởi tạo trình duyệt ẩn để ghim sản phẩm..."
+  },
+  {
+    "messageID": "log_init_hidden_pinner",
+    "languageCode": "en",
+    "displayContent": "Initializing hidden browser for product pinning..."
+  },
+  {
+    "messageID": "log_hidden_pinner_failed",
+    "languageCode": "vi",
+    "displayContent": "Không thể khởi tạo trình duyệt ẩn để ghim."
+  },
+  {
+    "messageID": "log_hidden_pinner_failed",
+    "languageCode": "en",
+    "displayContent": "Cannot initialize hidden browser for pinning."
+  },
+  {
+    "messageID": "log_hidden_pinner_ready",
+    "languageCode": "vi",
+    "displayContent": "Trình duyệt ẩn đã sẵn sàng, bắt đầu ghim..."
+  },
+  {
+    "messageID": "log_hidden_pinner_ready",
+    "languageCode": "en",
+    "displayContent": "Hidden browser ready, starting pinning..."
+  },
+  {
+    "messageID": "log_stop_cancel_init",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện yêu cầu dừng, hủy việc khởi tạo trình duyệt ẩn."
+  },
+  {
+    "messageID": "log_stop_cancel_init",
+    "languageCode": "en",
+    "displayContent": "Stop request detected, cancelling hidden browser initialization."
+  },
+  {
+    "messageID": "log_user_stop_during_open",
+    "languageCode": "vi",
+    "displayContent": "Người dùng dừng khi trình duyệt đang mở, đóng ngay..."
+  },
+  {
+    "messageID": "log_user_stop_during_open",
+    "languageCode": "en",
+    "displayContent": "User stopped while browser was opening, closing immediately..."
+  },
+  {
+    "messageID": "log_close_browser_error",
+    "languageCode": "vi",
+    "displayContent": "Lỗi khi đóng trình duyệt đang mở: {error}"
+  },
+  {
+    "messageID": "log_close_browser_error",
+    "languageCode": "en",
+    "displayContent": "Error while closing the open browser: {error}"
+  },
+  {
+    "messageID": "log_hidden_ready_pinning",
+    "languageCode": "vi",
+    "displayContent": "Trình duyệt ẩn đã sẵn sàng. Bắt đầu ghim sản phẩm..."
+  },
+  {
+    "messageID": "log_hidden_ready_pinning",
+    "languageCode": "en",
+    "displayContent": "Hidden browser ready. Starting product pinning..."
+  },
+  {
+    "messageID": "log_stop_during_pinning",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện yêu cầu dừng khi đang ghim, đóng trình duyệt..."
+  },
+  {
+    "messageID": "log_stop_during_pinning",
+    "languageCode": "en",
+    "displayContent": "Stop request detected while pinning, closing browser..."
+  },
+  {
+    "messageID": "log_closing_hidden_pinner",
+    "languageCode": "vi",
+    "displayContent": "Đang đóng trình duyệt ẩn ghim sản phẩm hiện tại..."
+  },
+  {
+    "messageID": "log_closing_hidden_pinner",
+    "languageCode": "en",
+    "displayContent": "Closing the current hidden pinner browser..."
+  },
+  {
+    "messageID": "log_pinning_stopped",
+    "languageCode": "vi",
+    "displayContent": "Quá trình ghim đã dừng bình thường."
+  },
+  {
+    "messageID": "log_pinning_stopped",
+    "languageCode": "en",
+    "displayContent": "Pinning process stopped normally."
+  },
+  {
+    "messageID": "log_pinning_thread_ended",
+    "languageCode": "vi",
+    "displayContent": "Luồng ghim sản phẩm đã kết thúc."
+  },
+  {
+    "messageID": "log_pinning_thread_ended",
+    "languageCode": "en",
+    "displayContent": "Product pinning thread ended."
+  },
+  {
+    "messageID": "log_pinning_in_progress",
+    "languageCode": "vi",
+    "displayContent": "Quá trình ghim đang chạy..."
+  },
+  {
+    "messageID": "log_pinning_in_progress",
+    "languageCode": "en",
+    "displayContent": "Pinning is in progress..."
+  },
+  {
+    "messageID": "log_sending_stop_pinning",
+    "languageCode": "vi",
+    "displayContent": "Đang gửi yêu cầu dừng ghim..."
+  },
+  {
+    "messageID": "log_sending_stop_pinning",
+    "languageCode": "en",
+    "displayContent": "Sending stop pinning request..."
+  },
+  {
+    "messageID": "log_stop_pinning_close_app",
+    "languageCode": "vi",
+    "displayContent": "Đang gửi yêu cầu dừng ghim khi đóng ứng dụng..."
+  },
+  {
+    "messageID": "log_stop_pinning_close_app",
+    "languageCode": "en",
+    "displayContent": "Sending stop pinning request on application close..."
+  },
+  {
+    "messageID": "log_waiting_pinning_close",
+    "languageCode": "vi",
+    "displayContent": "Đang chờ luồng ghim đóng..."
+  },
+  {
+    "messageID": "log_waiting_pinning_close",
+    "languageCode": "en",
+    "displayContent": "Waiting for pinning thread to close..."
+  },
+  {
+    "messageID": "log_closing_browser_live",
+    "languageCode": "vi",
+    "displayContent": "Đang đóng trình duyệt điều khiển Live..."
+  },
+  {
+    "messageID": "log_closing_browser_live",
+    "languageCode": "en",
+    "displayContent": "Closing Live control browser..."
+  },
+  {
+    "messageID": "mb_critical_title",
+    "languageCode": "vi",
+    "displayContent": "Lỗi nghiêm trọng"
+  },
+  {
+    "messageID": "mb_critical_title",
+    "languageCode": "en",
+    "displayContent": "Critical Error"
+  },
+  {
+    "messageID": "mb_critical_msg",
+    "languageCode": "vi",
+    "displayContent": "Có lỗi xảy ra trong luồng xử lý chính:\n\n{error}"
+  },
+  {
+    "messageID": "mb_critical_msg",
+    "languageCode": "en",
+    "displayContent": "An error occurred in the main thread:\n\n{error}"
+  },
+  {
+    "messageID": "mb_success_title",
+    "languageCode": "vi",
+    "displayContent": "Thành Công"
+  },
+  {
+    "messageID": "mb_success_title",
+    "languageCode": "en",
+    "displayContent": "Success"
+  },
+  {
+    "messageID": "mb_error_title",
+    "languageCode": "vi",
+    "displayContent": "Lỗi"
+  },
+  {
+    "messageID": "mb_error_title",
+    "languageCode": "en",
+    "displayContent": "Error"
+  },
+  {
+    "messageID": "mb_default_restored",
+    "languageCode": "vi",
+    "displayContent": "Đã khôi phục prompt mặc định và lưu vào file!"
+  },
+  {
+    "messageID": "mb_default_restored",
+    "languageCode": "en",
+    "displayContent": "Default prompt restored and saved to file!"
+  },
+  {
+    "messageID": "mb_default_restore_failed",
+    "languageCode": "vi",
+    "displayContent": "Không thể lưu prompt mặc định vào file!"
+  },
+  {
+    "messageID": "mb_default_restore_failed",
+    "languageCode": "en",
+    "displayContent": "Could not save default prompt to file!"
+  },
+  {
+    "messageID": "mb_prompt_empty",
+    "languageCode": "vi",
+    "displayContent": "Prompt không được để trống!"
+  },
+  {
+    "messageID": "mb_prompt_empty",
+    "languageCode": "en",
+    "displayContent": "Prompt cannot be empty!"
+  },
+  {
+    "messageID": "mb_prompt_saved",
+    "languageCode": "vi",
+    "displayContent": "Đã lưu cấu hình prompt!\n\nPrompt sẽ được áp dụng cho các reply tiếp theo."
+  },
+  {
+    "messageID": "mb_prompt_saved",
+    "languageCode": "en",
+    "displayContent": "Prompt config saved!\n\nIt will be used for subsequent replies."
+  },
+  {
+    "messageID": "mb_prompt_save_failed",
+    "languageCode": "vi",
+    "displayContent": "Không thể lưu prompt vào file!"
+  },
+  {
+    "messageID": "mb_prompt_save_failed",
+    "languageCode": "en",
+    "displayContent": "Could not save prompt to file!"
+  },
+  {
+    "messageID": "mb_prompt_save_error",
+    "languageCode": "vi",
+    "displayContent": "Không thể lưu prompt:\n{error}"
+  },
+  {
+    "messageID": "mb_prompt_save_error",
+    "languageCode": "en",
+    "displayContent": "Could not save prompt:\n{error}"
+  },
+  {
+    "messageID": "mb_license_title",
+    "languageCode": "vi",
+    "displayContent": "Lỗi bản quyền"
+  },
+  {
+    "messageID": "mb_license_title",
+    "languageCode": "en",
+    "displayContent": "License Error"
+  },
+  {
+    "messageID": "mb_license_invalid",
+    "languageCode": "vi",
+    "displayContent": "Bản quyền không hợp lệ: {message}\n\nChương trình đã tự động dừng."
+  },
+  {
+    "messageID": "mb_license_invalid",
+    "languageCode": "en",
+    "displayContent": "Invalid license: {message}\n\nThe program has stopped automatically."
+  },
+  {
+    "messageID": "mb_license_cant_start",
+    "languageCode": "vi",
+    "displayContent": "Không thể bắt đầu:\n\n{message}"
+  },
+  {
+    "messageID": "mb_license_cant_start",
+    "languageCode": "en",
+    "displayContent": "Cannot start:\n\n{message}"
+  },
+  {
+    "messageID": "mb_pin_invalid_input",
+    "languageCode": "vi",
+    "displayContent": "Số lượng và thời gian chờ phải là số nguyên dương."
+  },
+  {
+    "messageID": "mb_pin_invalid_input",
+    "languageCode": "en",
+    "displayContent": "Count and delay must be positive integers."
+  },
+  {
+    "messageID": "mb_init_error_title",
+    "languageCode": "vi",
+    "displayContent": "Lỗi Khởi Tạo"
+  },
+  {
+    "messageID": "mb_init_error_title",
+    "languageCode": "en",
+    "displayContent": "Initialization Error"
+  },
+  {
+    "messageID": "mb_init_error_suffix",
+    "languageCode": "vi",
+    "displayContent": "\nChương trình sẽ thoát."
+  },
+  {
+    "messageID": "mb_init_error_suffix",
+    "languageCode": "en",
+    "displayContent": "\nThe program will exit."
+  },
+  {
+    "messageID": "mb_ai_off_title",
+    "languageCode": "vi",
+    "displayContent": "Chưa Bật AI Reply"
+  },
+  {
+    "messageID": "mb_ai_off_title",
+    "languageCode": "en",
+    "displayContent": "AI Reply Disabled"
+  },
+  {
+    "messageID": "mb_ai_off_msg",
+    "languageCode": "vi",
+    "displayContent": "Vui lòng tích checkbox 'Tự động trả lời bình luận (AI)' trước khi cấu hình prompt."
+  },
+  {
+    "messageID": "mb_ai_off_msg",
+    "languageCode": "en",
+    "displayContent": "Please tick the 'AI auto comment reply' checkbox before configuring the prompt."
+  },
+  {
+    "messageID": "version_info",
+    "languageCode": "vi",
+    "displayContent": "v{version}  •  Hết hạn: {expiry}"
+  },
+  {
+    "messageID": "version_info",
+    "languageCode": "en",
+    "displayContent": "v{version}  •  Expires: {expiry}"
+  },
+  {
+    "messageID": "mode_hidden",
+    "languageCode": "vi",
+    "displayContent": "ẩn"
+  },
+  {
+    "messageID": "mode_hidden",
+    "languageCode": "en",
+    "displayContent": "hidden"
+  },
+  {
+    "messageID": "mode_visible",
+    "languageCode": "vi",
+    "displayContent": "hiện"
+  },
+  {
+    "messageID": "mode_visible",
+    "languageCode": "en",
+    "displayContent": "visible"
+  },
+  {
+    "messageID": "log_studio_not_found",
+    "languageCode": "vi",
+    "displayContent": "Không tìm thấy TikTok LIVE Studio tại: {path}"
+  },
+  {
+    "messageID": "log_studio_not_found",
+    "languageCode": "en",
+    "displayContent": "TikTok LIVE Studio not found at: {path}"
+  },
+  {
+    "messageID": "log_captcha_rotate",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện Captcha xoay — đang giải..."
+  },
+  {
+    "messageID": "log_captcha_rotate",
+    "languageCode": "en",
+    "displayContent": "Rotation captcha detected — solving..."
+  },
+  {
+    "messageID": "log_captcha_drag",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện Captcha kéo thả — đang giải..."
+  },
+  {
+    "messageID": "log_captcha_drag",
+    "languageCode": "en",
+    "displayContent": "Drag captcha detected — solving..."
+  },
+  {
+    "messageID": "log_captcha_3d",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện Captcha 3D (2 object) — đang giải..."
+  },
+  {
+    "messageID": "log_captcha_3d",
+    "languageCode": "en",
+    "displayContent": "3D captcha (2 objects) detected — solving..."
+  },
+  {
+    "messageID": "log_captcha_drag_new",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện Captcha kéo thả (mới) — đang giải..."
+  },
+  {
+    "messageID": "log_captcha_drag_new",
+    "languageCode": "en",
+    "displayContent": "Drag captcha (new) detected — solving..."
+  },
+  {
+    "messageID": "log_captcha_3d_new",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện Captcha 3D (mới) — đang giải..."
+  },
+  {
+    "messageID": "log_captcha_3d_new",
+    "languageCode": "en",
+    "displayContent": "3D captcha (new) detected — solving..."
+  },
+  {
+    "messageID": "log_captcha_rotate_new",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện Captcha xoay (mới) — đang giải..."
+  },
+  {
+    "messageID": "log_captcha_rotate_new",
+    "languageCode": "en",
+    "displayContent": "Rotation captcha (new) detected — solving..."
+  },
+  {
+    "messageID": "log_captcha_rotate_variant",
+    "languageCode": "vi",
+    "displayContent": "Phát hiện Captcha xoay (biến thể) — đang giải..."
+  },
+  {
+    "messageID": "log_captcha_rotate_variant",
+    "languageCode": "en",
+    "displayContent": "Rotation captcha (variant) detected — solving..."
+  },
+  {
+    "messageID": "log_captcha_not_appeared",
+    "languageCode": "vi",
+    "displayContent": "Captcha chưa xuất hiện, tiếp tục giám sát..."
+  },
+  {
+    "messageID": "log_captcha_not_appeared",
+    "languageCode": "en",
+    "displayContent": "No captcha yet, continuing to monitor..."
+  },
+  {
+    "messageID": "log_studio_connected",
+    "languageCode": "vi",
+    "displayContent": "Đã kết nối với TikTok LIVE Studio!"
+  },
+  {
+    "messageID": "log_studio_connected",
+    "languageCode": "en",
+    "displayContent": "Connected to TikTok LIVE Studio!"
+  },
+  {
+    "messageID": "log_launcher_not_found",
+    "languageCode": "vi",
+    "displayContent": "Không tìm thấy file TikTok LIVE Studio Launcher. Vui lòng kiểm tra cài đặt."
+  },
+  {
+    "messageID": "log_launcher_not_found",
+    "languageCode": "en",
+    "displayContent": "TikTok LIVE Studio Launcher file not found. Please verify installation."
+  },
+  {
+    "messageID": "log_studio_starting",
+    "languageCode": "vi",
+    "displayContent": "Đang khởi động TikTok LIVE Studio: {path}"
+  },
+  {
+    "messageID": "log_studio_starting",
+    "languageCode": "en",
+    "displayContent": "Starting TikTok LIVE Studio: {path}"
+  },
+  {
+    "messageID": "log_studio_wait_start",
+    "languageCode": "vi",
+    "displayContent": "Chờ TikTok LIVE Studio khởi động..."
+  },
+  {
+    "messageID": "log_studio_wait_start",
+    "languageCode": "en",
+    "displayContent": "Waiting for TikTok LIVE Studio to start..."
+  },
+  {
+    "messageID": "log_connect_attempt",
+    "languageCode": "vi",
+    "displayContent": "Thử kết nối lần {attempt}/3..."
+  },
+  {
+    "messageID": "log_connect_attempt",
+    "languageCode": "en",
+    "displayContent": "Connection attempt {attempt}/3..."
+  },
+  {
+    "messageID": "log_connect_failed_30s",
+    "languageCode": "vi",
+    "displayContent": "Không thể kết nối sau 30 giây. Hãy chắc chắn TikTok LIVE Studio đã khởi động."
+  },
+  {
+    "messageID": "log_connect_failed_30s",
+    "languageCode": "en",
+    "displayContent": "Could not connect within 30 seconds. Make sure TikTok LIVE Studio has started."
+  },
+  {
+    "messageID": "log_searching_studio",
+    "languageCode": "vi",
+    "displayContent": "Đang tìm kiếm TikTok LIVE Studio..."
+  },
+  {
+    "messageID": "log_searching_studio",
+    "languageCode": "en",
+    "displayContent": "Searching for TikTok LIVE Studio..."
+  },
+  {
+    "messageID": "log_connect_retry_10s",
+    "languageCode": "vi",
+    "displayContent": "Không thể kết nối. Thử lại sau 10 giây..."
+  },
+  {
+    "messageID": "log_connect_retry_10s",
+    "languageCode": "en",
+    "displayContent": "Cannot connect. Retrying in 10 seconds..."
+  },
+  {
+    "messageID": "log_captcha_monitor_start",
+    "languageCode": "vi",
+    "displayContent": "Bắt đầu giám sát và tự giải captcha..."
+  },
+  {
+    "messageID": "log_captcha_monitor_start",
+    "languageCode": "en",
+    "displayContent": "Starting monitoring and auto-solving captcha..."
+  },
+  {
+    "messageID": "log_studio_lost_reconnect",
+    "languageCode": "vi",
+    "displayContent": "Mất kết nối với TikTok LIVE Studio, đang thử kết nối lại... ({error})"
+  },
+  {
+    "messageID": "log_studio_lost_reconnect",
+    "languageCode": "en",
+    "displayContent": "Lost connection to TikTok LIVE Studio, attempting to reconnect... ({error})"
+  },
+  {
+    "messageID": "log_studio_closed_stop",
+    "languageCode": "vi",
+    "displayContent": "TikTok LIVE Studio đã đóng — tự động dừng giải captcha."
+  },
+  {
+    "messageID": "log_studio_closed_stop",
+    "languageCode": "en",
+    "displayContent": "TikTok LIVE Studio has closed — auto-stopping captcha solving."
+  },
+  {
+    "messageID": "log_pin_browser_init",
+    "languageCode": "vi",
+    "displayContent": "Đang khởi tạo trình duyệt ({mode})..."
+  },
+  {
+    "messageID": "log_pin_browser_init",
+    "languageCode": "en",
+    "displayContent": "Initializing browser ({mode})..."
+  },
+  {
+    "messageID": "log_pin_browser_launched",
+    "languageCode": "vi",
+    "displayContent": "Trình duyệt điều khiển Live đã được khởi chạy ({mode})..."
+  },
+  {
+    "messageID": "log_pin_browser_launched",
+    "languageCode": "en",
+    "displayContent": "Live control browser launched ({mode})..."
+  },
+  {
+    "messageID": "log_pin_webdriver_error",
+    "languageCode": "vi",
+    "displayContent": "Lỗi mở Chrome khi thử {attempt}: {error}"
+  },
+  {
+    "messageID": "log_pin_webdriver_error",
+    "languageCode": "en",
+    "displayContent": "Chrome launch error on attempt {attempt}: {error}"
+  },
+  {
+    "messageID": "log_pin_chrome_not_found",
+    "languageCode": "vi",
+    "displayContent": "Không tìm thấy Google Chrome trên máy. Hãy cài Chrome để dùng tính năng ghim sản phẩm."
+  },
+  {
+    "messageID": "log_pin_chrome_not_found",
+    "languageCode": "en",
+    "displayContent": "Google Chrome not found on this computer. Please install Chrome to use product pinning."
+  },
+  {
+    "messageID": "log_pin_retry_browser",
+    "languageCode": "vi",
+    "displayContent": "Đang thử khởi chạy lại trình duyệt sau một thời gian trì hoãn ngắn..."
+  },
+  {
+    "messageID": "log_pin_retry_browser",
+    "languageCode": "en",
+    "displayContent": "Attempting to relaunch browser after a short delay..."
+  },
+  {
+    "messageID": "log_pin_stop_during_retry",
+    "languageCode": "vi",
+    "displayContent": "⛔ Phát hiện yêu cầu dừng trong thời gian chờ retry."
+  },
+  {
+    "messageID": "log_pin_stop_during_retry",
+    "languageCode": "en",
+    "displayContent": "⛔ Stop request detected during retry wait."
+  },
+  {
+    "messageID": "log_pin_browser_failed",
+    "languageCode": "vi",
+    "displayContent": "Không thể mở trình duyệt điều khiển Live."
+  },
+  {
+    "messageID": "log_pin_browser_failed",
+    "languageCode": "en",
+    "displayContent": "Cannot open Live control browser."
+  },
+  {
+    "messageID": "log_pin_connect_load_cookie",
+    "languageCode": "vi",
+    "displayContent": "Đang kết nối tới TikTok để chuẩn bị tải cookie..."
+  },
+  {
+    "messageID": "log_pin_connect_load_cookie",
+    "languageCode": "en",
+    "displayContent": "Connecting to TikTok to load cookies..."
+  },
+  {
+    "messageID": "log_pin_cookie_loaded",
+    "languageCode": "vi",
+    "displayContent": "Đã tải cookie thành công, đang kiểm tra đăng nhập..."
+  },
+  {
+    "messageID": "log_pin_cookie_loaded",
+    "languageCode": "en",
+    "displayContent": "Cookies loaded, verifying login..."
+  },
+  {
+    "messageID": "log_pin_cookie_invalid",
+    "languageCode": "vi",
+    "displayContent": "Cookie có thể đã hết hạn hoặc không hợp lệ. Cần đăng nhập thủ công."
+  },
+  {
+    "messageID": "log_pin_cookie_invalid",
+    "languageCode": "en",
+    "displayContent": "Cookies may be expired or invalid. Manual login required."
+  },
+  {
+    "messageID": "log_pin_relogin_browser",
+    "languageCode": "vi",
+    "displayContent": "Vui lòng mở Trình duyệt điều khiển live để đăng nhập lại Tiktok"
+  },
+  {
+    "messageID": "log_pin_relogin_browser",
+    "languageCode": "en",
+    "displayContent": "Please open the Live control browser to log into TikTok again"
+  },
+  {
+    "messageID": "log_pin_no_cookie",
+    "languageCode": "vi",
+    "displayContent": "Không tìm thấy cookie hoặc không tải được. Cần đăng nhập thủ công."
+  },
+  {
+    "messageID": "log_pin_no_cookie",
+    "languageCode": "en",
+    "displayContent": "No cookies found or could not load. Manual login required."
+  },
+  {
+    "messageID": "log_pin_navigate_login",
+    "languageCode": "vi",
+    "displayContent": "Đang điều hướng đến trang đăng nhập để xác thực thủ công..."
+  },
+  {
+    "messageID": "log_pin_navigate_login",
+    "languageCode": "en",
+    "displayContent": "Navigating to login page for manual authentication..."
+  },
+  {
+    "messageID": "log_pin_manual_login_wait",
+    "languageCode": "vi",
+    "displayContent": "Vui lòng đăng nhập thủ công vào cửa sổ trình duyệt. Đang chờ đăng nhập..."
+  },
+  {
+    "messageID": "log_pin_manual_login_wait",
+    "languageCode": "en",
+    "displayContent": "Please log in manually in the browser window. Waiting for login..."
+  },
+  {
+    "messageID": "log_pin_login_success",
+    "languageCode": "vi",
+    "displayContent": "Đăng nhập thành công! Lưu cookie để sử dụng sau này..."
+  },
+  {
+    "messageID": "log_pin_login_success",
+    "languageCode": "en",
+    "displayContent": "Login succeeded! Saving cookies for future use..."
+  },
+  {
+    "messageID": "log_pin_login_timeout",
+    "languageCode": "vi",
+    "displayContent": "Hết thời gian đăng nhập (5 phút). Vui lòng thử lại."
+  },
+  {
+    "messageID": "log_pin_login_timeout",
+    "languageCode": "en",
+    "displayContent": "Login timeout (5 minutes). Please try again."
+  },
+  {
+    "messageID": "log_pin_no_products",
+    "languageCode": "vi",
+    "displayContent": "Không lấy được danh sách sản phẩm."
+  },
+  {
+    "messageID": "log_pin_no_products",
+    "languageCode": "en",
+    "displayContent": "Could not retrieve product list."
+  },
+  {
+    "messageID": "log_pin_empty_products",
+    "languageCode": "vi",
+    "displayContent": "Không có sản phẩm nào để ghim. Vui lòng thêm sản phẩm vào danh sách sản phẩm trực tiếp."
+  },
+  {
+    "messageID": "log_pin_empty_products",
+    "languageCode": "en",
+    "displayContent": "No products to pin. Please add products to your direct product list."
+  },
+  {
+    "messageID": "log_pin_found_count",
+    "languageCode": "vi",
+    "displayContent": "Đã tìm thấy {count} sản phẩm có thể ghim"
+  },
+  {
+    "messageID": "log_pin_found_count",
+    "languageCode": "en",
+    "displayContent": "Found {count} pinnable products"
+  },
+  {
+    "messageID": "log_pin_starting",
+    "languageCode": "vi",
+    "displayContent": "Bắt đầu ghim sản phẩm..."
+  },
+  {
+    "messageID": "log_pin_starting",
+    "languageCode": "en",
+    "displayContent": "Starting product pinning..."
+  },
+  {
+    "messageID": "log_pin_completed_cycle",
+    "languageCode": "vi",
+    "displayContent": "Đã ghim đủ {count} sản phẩm cho chu kỳ này."
+  },
+  {
+    "messageID": "log_pin_completed_cycle",
+    "languageCode": "en",
+    "displayContent": "Pinned {count} products for this cycle."
+  },
+  {
+    "messageID": "log_pin_progress",
+    "languageCode": "vi",
+    "displayContent": "Đã ghim sản phẩm: {pinned}/{total}"
+  },
+  {
+    "messageID": "log_pin_progress",
+    "languageCode": "en",
+    "displayContent": "Pinned products: {pinned}/{total}"
+  },
+  {
+    "messageID": "log_pin_error_pinning",
+    "languageCode": "vi",
+    "displayContent": "Lỗi khi ghim sản phẩm: {error}"
+  },
+  {
+    "messageID": "log_pin_error_pinning",
+    "languageCode": "en",
+    "displayContent": "Error pinning product: {error}"
+  },
+  {
+    "messageID": "log_pin_cycle_complete",
+    "languageCode": "vi",
+    "displayContent": "Hoàn thành chu kỳ, chuẩn bị chu kì ghim mới"
+  },
+  {
+    "messageID": "log_pin_cycle_complete",
+    "languageCode": "en",
+    "displayContent": "Cycle complete, preparing next pinning cycle"
+  },
+  {
+    "messageID": "log_pin_critical_error",
+    "languageCode": "vi",
+    "displayContent": "Lỗi nghiêm trọng trong quá trình ghim: {error}"
+  },
+  {
+    "messageID": "log_pin_critical_error",
+    "languageCode": "en",
+    "displayContent": "Critical error during pinning: {error}"
+  },
+  {
+    "messageID": "log_cr_question_short",
+    "languageCode": "vi",
+    "displayContent": "[Khách hỏi] {username}: {text}"
+  },
+  {
+    "messageID": "log_cr_question_short",
+    "languageCode": "en",
+    "displayContent": "[Question] {username}: {text}"
+  },
+  {
+    "messageID": "log_cr_ai_replied",
+    "languageCode": "vi",
+    "displayContent": "[AI trả lời] {reply}"
+  },
+  {
+    "messageID": "log_cr_ai_replied",
+    "languageCode": "en",
+    "displayContent": "[AI replied] {reply}"
+  },
+  {
+    "messageID": "log_cr_send_failed",
+    "languageCode": "vi",
+    "displayContent": "Không gửi được: {reply}"
+  },
+  {
+    "messageID": "log_cr_send_failed",
+    "languageCode": "en",
+    "displayContent": "Send failed: {reply}"
+  },
+  {
+    "messageID": "log_cr_reply_error",
+    "languageCode": "vi",
+    "displayContent": "[AI] Vui lòng kiểm tra lại API key"
+  },
+  {
+    "messageID": "log_cr_reply_error",
+    "languageCode": "en",
+    "displayContent": "[AI] Please check the API key again"
+  },
+  {
+    "messageID": "log_cr_starting",
+    "languageCode": "vi",
+    "displayContent": "[AI] Bắt đầu trả lời bình luận bằng AI..."
+  },
+  {
+    "messageID": "log_cr_starting",
+    "languageCode": "en",
+    "displayContent": "[AI] Starting AI comment replies..."
+  },
+  {
+    "messageID": "log_cr_summary",
+    "languageCode": "vi",
+    "displayContent": "Tổng kết: {comments} comments, {sent} đã trả lời"
+  },
+  {
+    "messageID": "log_cr_summary",
+    "languageCode": "en",
+    "displayContent": "Summary: {comments} comments, {sent} replied"
+  },
+  {
+    "messageID": "log_cr_relogin_needed",
+    "languageCode": "vi",
+    "displayContent": "Vui lòng đăng nhập lại Trình duyệt để lấy cookie hợp lệ!"
+  },
+  {
+    "messageID": "log_cr_relogin_needed",
+    "languageCode": "en",
+    "displayContent": "Please log into the browser again to get valid cookies!"
+  },
+  {
+    "messageID": "log_cr_open_livestream",
+    "languageCode": "vi",
+    "displayContent": "Vui lòng nhập chính xác userName Tiktok đang live và mở livestream trước khi chạy AI reply!"
+  },
+  {
+    "messageID": "log_cr_open_livestream",
+    "languageCode": "en",
+    "displayContent": "Please enter the correct TikTok userName and start the livestream before running the AI ​​reply!"
+  },
+  {
+    "messageID": "update_notes_title",
+    "languageCode": "vi",
+    "displayContent": "Nội dung cập nhật:"
+  },
+  {
+    "messageID": "update_notes_title",
+    "languageCode": "en",
+    "displayContent": "Update details:"
+  },
+  {
+    "messageID": "update_btn_exit",
+    "languageCode": "vi",
+    "displayContent": "Thoát"
+  },
+  {
+    "messageID": "update_btn_exit",
+    "languageCode": "en",
+    "displayContent": "Exit"
+  },
+  {
+    "messageID": "autoupdate_window_title",
+    "languageCode": "vi",
+    "displayContent": "Cập Nhật Captcha Solver"
+  },
+  {
+    "messageID": "autoupdate_window_title",
+    "languageCode": "en",
+    "displayContent": "Captcha Solver Update"
+  },
+  {
+    "messageID": "autoupdate_title",
+    "languageCode": "vi",
+    "displayContent": "ĐANG CẬP NHẬT PHIÊN BẢN MỚI ⚡"
+  },
+  {
+    "messageID": "autoupdate_title",
+    "languageCode": "en",
+    "displayContent": "UPDATING TO THE LATEST VERSION ⚡"
+  },
+  {
+    "messageID": "autoupdate_subtitle",
+    "languageCode": "vi",
+    "displayContent": "Ứng dụng sẽ tự mở lại khi cập nhật xong. Key, cookie và cấu hình của bạn được giữ nguyên."
+  },
+  {
+    "messageID": "autoupdate_subtitle",
+    "languageCode": "en",
+    "displayContent": "The app will reopen automatically when the update is done. Your key, cookies and settings are kept."
+  },
+  {
+    "messageID": "autoupdate_status_downloading",
+    "languageCode": "vi",
+    "displayContent": "Đang tải bản cập nhật..."
+  },
+  {
+    "messageID": "autoupdate_status_downloading",
+    "languageCode": "en",
+    "displayContent": "Downloading update..."
+  },
+  {
+    "messageID": "autoupdate_status_retrying",
+    "languageCode": "vi",
+    "displayContent": "Mất kết nối, đang thử lại ({attempt}/{total})..."
+  },
+  {
+    "messageID": "autoupdate_status_retrying",
+    "languageCode": "en",
+    "displayContent": "Connection lost, retrying ({attempt}/{total})..."
+  },
+  {
+    "messageID": "autoupdate_status_verifying",
+    "languageCode": "vi",
+    "displayContent": "Đang kiểm tra file cập nhật..."
+  },
+  {
+    "messageID": "autoupdate_status_verifying",
+    "languageCode": "en",
+    "displayContent": "Verifying update file..."
+  },
+  {
+    "messageID": "autoupdate_status_installing",
+    "languageCode": "vi",
+    "displayContent": "Đang cài đặt, ứng dụng sẽ tự mở lại..."
+  },
+  {
+    "messageID": "autoupdate_status_installing",
+    "languageCode": "en",
+    "displayContent": "Installing, the app will reopen automatically..."
+  },
+  {
+    "messageID": "autoupdate_status_failed",
+    "languageCode": "vi",
+    "displayContent": "Cập nhật không thành công"
+  },
+  {
+    "messageID": "autoupdate_status_failed",
+    "languageCode": "en",
+    "displayContent": "Update failed"
+  },
+  {
+    "messageID": "autoupdate_err_download",
+    "languageCode": "vi",
+    "displayContent": "Không tải được bản cập nhật. Vui lòng kiểm tra kết nối mạng rồi bấm Thử lại."
+  },
+  {
+    "messageID": "autoupdate_err_download",
+    "languageCode": "en",
+    "displayContent": "Could not download the update. Please check your internet connection and click Retry."
+  },
+  {
+    "messageID": "autoupdate_err_checksum",
+    "languageCode": "vi",
+    "displayContent": "File tải về bị lỗi hoặc không phải bản phát hành chính thức. Bấm Thử lại để tải lại."
+  },
+  {
+    "messageID": "autoupdate_err_checksum",
+    "languageCode": "en",
+    "displayContent": "The downloaded file is corrupted or not the official release. Click Retry to download it again."
+  },
+  {
+    "messageID": "autoupdate_err_save",
+    "languageCode": "vi",
+    "displayContent": "Không lưu được file cập nhật (ổ đĩa đầy hoặc bị phần mềm diệt virus chặn)."
+  },
+  {
+    "messageID": "autoupdate_err_save",
+    "languageCode": "en",
+    "displayContent": "Could not save the update file (disk full or blocked by antivirus)."
+  },
+  {
+    "messageID": "autoupdate_err_launch",
+    "languageCode": "vi",
+    "displayContent": "Không khởi chạy được trình cài đặt. Vui lòng bấm Tải thủ công để cài bản mới."
+  },
+  {
+    "messageID": "autoupdate_err_launch",
+    "languageCode": "en",
+    "displayContent": "Could not start the installer. Please click Download manually to install the new version."
+  },
+  {
+    "messageID": "autoupdate_btn_retry",
+    "languageCode": "vi",
+    "displayContent": "Thử lại"
+  },
+  {
+    "messageID": "autoupdate_btn_retry",
+    "languageCode": "en",
+    "displayContent": "Retry"
+  },
+  {
+    "messageID": "autoupdate_btn_manual",
+    "languageCode": "vi",
+    "displayContent": "Tải thủ công"
+  },
+  {
+    "messageID": "autoupdate_btn_manual",
+    "languageCode": "en",
+    "displayContent": "Download manually"
+  },
+  {
+    "messageID": "autoupdate_log_updated",
+    "languageCode": "vi",
+    "displayContent": "Đã tự động cập nhật lên phiên bản v{version}"
+  },
+  {
+    "messageID": "autoupdate_log_updated",
+    "languageCode": "en",
+    "displayContent": "Automatically updated to version v{version}"
+  },
+  {
+    "messageID": "log_cr_no_app_id",
+    "languageCode": "vi",
+    "displayContent": "Chưa có app_id — hãy bấm \"Bắt Đầu Ghim\" một lần để lấy, tạm dùng giá trị mặc định"
+  },
+  {
+    "messageID": "log_cr_no_app_id",
+    "languageCode": "en",
+    "displayContent": "No app_id yet — press \"Start Pinning\" once to capture it; using the default for now"
+  },
+  {
+    "messageID": "lbl_reply_method",
+    "languageCode": "vi",
+    "displayContent": "⚙  PHƯƠNG THỨC TRẢ LỜI"
+  },
+  {
+    "messageID": "lbl_reply_method",
+    "languageCode": "en",
+    "displayContent": "⚙  REPLY METHOD"
+  },
+  {
+    "messageID": "mode_text",
+    "languageCode": "vi",
+    "displayContent": "Văn bản"
+  },
+  {
+    "messageID": "mode_text",
+    "languageCode": "en",
+    "displayContent": "Text"
+  },
+  {
+    "messageID": "mode_voice",
+    "languageCode": "vi",
+    "displayContent": "Giọng nói"
+  },
+  {
+    "messageID": "mode_voice",
+    "languageCode": "en",
+    "displayContent": "Voice"
+  },
+  {
+    "messageID": "mode_both",
+    "languageCode": "vi",
+    "displayContent": "Văn bản + Giọng nói"
+  },
+  {
+    "messageID": "mode_both",
+    "languageCode": "en",
+    "displayContent": "Text + Voice"
+  },
+  {
+    "messageID": "mode_hint_text",
+    "languageCode": "vi",
+    "displayContent": "Chỉ gửi câu trả lời dạng văn bản vào khung chat."
+  },
+  {
+    "messageID": "mode_hint_text",
+    "languageCode": "en",
+    "displayContent": "Sends the AI reply as a chat message only."
+  },
+  {
+    "messageID": "mode_hint_voice",
+    "languageCode": "vi",
+    "displayContent": "Chỉ đọc câu trả lời bằng giọng nói, không gửi chat."
+  },
+  {
+    "messageID": "mode_hint_voice",
+    "languageCode": "en",
+    "displayContent": "Speaks the AI reply aloud, no chat message."
+  },
+  {
+    "messageID": "mode_hint_both",
+    "languageCode": "vi",
+    "displayContent": "Vừa gửi tin nhắn chat, vừa đọc bằng giọng nói."
+  },
+  {
+    "messageID": "mode_hint_both",
+    "languageCode": "en",
+    "displayContent": "Sends the chat message and speaks it aloud."
+  },
+  {
+    "messageID": "lbl_voice_select",
+    "languageCode": "vi",
+    "displayContent": "🔊  GIỌNG ĐỌC"
+  },
+  {
+    "messageID": "lbl_voice_select",
+    "languageCode": "en",
+    "displayContent": "🔊  VOICE"
+  },
+  {
+    "messageID": "btn_voice_preview",
+    "languageCode": "vi",
+    "displayContent": "▶  Nghe Thử"
+  },
+  {
+    "messageID": "btn_voice_preview",
+    "languageCode": "en",
+    "displayContent": "▶  Preview"
+  },
+  {
+    "messageID": "btn_voice_preview_stop",
+    "languageCode": "vi",
+    "displayContent": "■  Dừng"
+  },
+  {
+    "messageID": "btn_voice_preview_stop",
+    "languageCode": "en",
+    "displayContent": "■  Stop"
+  },
+  {
+    "messageID": "voice_preview_text",
+    "languageCode": "vi",
+    "displayContent": "Xin chào, đây là giọng đọc thử của trợ lý AI. Chúng tôi sẽ hỗ trợ bạn tư vấn khách hàng."
+  },
+  {
+    "messageID": "voice_preview_text",
+    "languageCode": "en",
+    "displayContent": "Hello, this is a voice sample from the AI ​​assistant. We will assist you with customer consultations."
+  },
+  {
+    "messageID": "log_reply_mode_changed",
+    "languageCode": "vi",
+    "displayContent": "Phương thức trả lời: {mode}"
+  },
+  {
+    "messageID": "log_reply_mode_changed",
+    "languageCode": "en",
+    "displayContent": "Reply method: {mode}"
+  },
+  {
+    "messageID": "log_voice_changed",
+    "languageCode": "vi",
+    "displayContent": "Đã chọn giọng đọc: {voice}"
+  },
+  {
+    "messageID": "log_voice_changed",
+    "languageCode": "en",
+    "displayContent": "Voice selected: {voice}"
+  },
+  {
+    "messageID": "log_voice_preview_start",
+    "languageCode": "vi",
+    "displayContent": "Đang nghe thử giọng đọc: {voice}"
+  },
+  {
+    "messageID": "log_voice_preview_start",
+    "languageCode": "en",
+    "displayContent": "Previewing voice: {voice}"
+  },
+  {
+    "messageID": "log_voice_preview_stop",
+    "languageCode": "vi",
+    "displayContent": "Đã dừng nghe thử giọng đọc"
+  },
+  {
+    "messageID": "log_voice_preview_stop",
+    "languageCode": "en",
+    "displayContent": "Voice preview stopped"
+  },
+  {
+    "messageID": "log_voice_preview_error",
+    "languageCode": "vi",
+    "displayContent": "Lỗi khi nghe thử giọng đọc: {error}"
+  },
+  {
+    "messageID": "log_voice_preview_error",
+    "languageCode": "en",
+    "displayContent": "Voice preview error: {error}"
+  },
+  {
+    "messageID": "prompt_window_titlebar",
+    "languageCode": "vi",
+    "displayContent": "Cấu Hình Trả Lời AI"
+  },
+  {
+    "messageID": "prompt_window_titlebar",
+    "languageCode": "en",
+    "displayContent": "AI Reply Configuration"
+  },
+  {
+    "messageID": "prompt_window_subtitle",
+    "languageCode": "vi",
+    "displayContent": "Phương thức · Giọng đọc · Prompt"
+  },
+  {
+    "messageID": "prompt_window_subtitle",
+    "languageCode": "en",
+    "displayContent": "Method · Voice · Prompt"
+  },
+  {
+    "messageID": "lbl_current_method",
+    "languageCode": "vi",
+    "displayContent": "Phương thức:"
+  },
+  {
+    "messageID": "lbl_current_method",
+    "languageCode": "en",
+    "displayContent": "Method:"
+  },
+  {
+    "messageID": "lbl_voice_rate",
+    "languageCode": "vi",
+    "displayContent": "TỐC ĐỘ ĐỌC"
+  },
+  {
+    "messageID": "lbl_voice_rate",
+    "languageCode": "en",
+    "displayContent": "SPEED"
+  },
+  {
+    "messageID": "voice_loading",
+    "languageCode": "vi",
+    "displayContent": "Đang tải giọng…"
+  },
+  {
+    "messageID": "voice_loading",
+    "languageCode": "en",
+    "displayContent": "Loading voices…"
+  },
+  {
+    "messageID": "voice_load_failed",
+    "languageCode": "vi",
+    "displayContent": "Không tải được giọng"
+  },
+  {
+    "messageID": "voice_load_failed",
+    "languageCode": "en",
+    "displayContent": "Failed to load voices"
+  },
+  {
+    "messageID": "btn_voice_preview_loading",
+    "languageCode": "vi",
+    "displayContent": "⏳  Đang tạo…"
+  },
+  {
+    "messageID": "btn_voice_preview_loading",
+    "languageCode": "en",
+    "displayContent": "⏳  Generating…"
+  },
+  {
+    "messageID": "lang_name_vi",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Việt"
+  },
+  {
+    "messageID": "lang_name_vi",
+    "languageCode": "en",
+    "displayContent": "Vietnamese"
+  },
+  {
+    "messageID": "lang_name_en",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Anh"
+  },
+  {
+    "messageID": "lang_name_en",
+    "languageCode": "en",
+    "displayContent": "English"
+  },
+  {
+    "messageID": "lang_name_ja",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Nhật"
+  },
+  {
+    "messageID": "lang_name_ja",
+    "languageCode": "en",
+    "displayContent": "Japanese"
+  },
+  {
+    "messageID": "lang_name_zh",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Trung"
+  },
+  {
+    "messageID": "lang_name_zh",
+    "languageCode": "en",
+    "displayContent": "Chinese"
+  },
+  {
+    "messageID": "lang_name_es",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Tây Ban Nha"
+  },
+  {
+    "messageID": "lang_name_es",
+    "languageCode": "en",
+    "displayContent": "Spanish"
+  },
+  {
+    "messageID": "lang_name_th",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Thái"
+  },
+  {
+    "messageID": "lang_name_th",
+    "languageCode": "en",
+    "displayContent": "Thai"
+  },
+  {
+    "messageID": "lang_name_id",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Indonesia"
+  },
+  {
+    "messageID": "lang_name_id",
+    "languageCode": "en",
+    "displayContent": "Indonesian"
+  },
+  {
+    "messageID": "lang_name_pt",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Bồ Đào Nha"
+  },
+  {
+    "messageID": "lang_name_pt",
+    "languageCode": "en",
+    "displayContent": "Portuguese"
+  },
+  {
+    "messageID": "lang_name_de",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Đức"
+  },
+  {
+    "messageID": "lang_name_de",
+    "languageCode": "en",
+    "displayContent": "German"
+  },
+  {
+    "messageID": "lang_name_fr",
+    "languageCode": "vi",
+    "displayContent": "Tiếng Pháp"
+  },
+  {
+    "messageID": "lang_name_fr",
+    "languageCode": "en",
+    "displayContent": "French"
+  },
+  {
+    "messageID": "log_tts_voices_loaded",
+    "languageCode": "vi",
+    "displayContent": "Đã tải {count} giọng đọc thuộc {langs} ngôn ngữ"
+  },
+  {
+    "messageID": "log_tts_voices_loaded",
+    "languageCode": "en",
+    "displayContent": "Loaded {count} voices across {langs} languages"
+  },
+  {
+    "messageID": "log_tts_voices_failed",
+    "languageCode": "vi",
+    "displayContent": "⚠️ Không tải được danh sách giọng: {error}"
+  },
+  {
+    "messageID": "log_tts_voices_failed",
+    "languageCode": "en",
+    "displayContent": "⚠️ Could not load the voice list: {error}"
+  },
+  {
+    "messageID": "log_tts_ready",
+    "languageCode": "vi",
+    "displayContent": "Đã bật đọc câu trả lời bằng giọng nói (tốc độ {rate}x)"
+  },
+  {
+    "messageID": "log_tts_ready",
+    "languageCode": "en",
+    "displayContent": "Voice reading enabled (speed {rate}x)"
+  },
+  {
+    "messageID": "log_tts_failed",
+    "languageCode": "vi",
+    "displayContent": "⚠️ Lỗi tạo giọng nói: {error} — bỏ qua câu này"
+  },
+  {
+    "messageID": "log_tts_failed",
+    "languageCode": "en",
+    "displayContent": "⚠️ Voice generation error: {error} — skipping this reply"
+  },
+  {
+    "messageID": "log_tts_play_failed",
+    "languageCode": "vi",
+    "displayContent": "⚠️ Không phát được file audio — bỏ qua câu này"
+  },
+  {
+    "messageID": "log_tts_play_failed",
+    "languageCode": "en",
+    "displayContent": "⚠️ Could not play the audio file — skipping this reply"
+  },
+  {
+    "messageID": "log_tts_queue_full",
+    "languageCode": "vi",
+    "displayContent": "⚠️ Hàng đợi giọng nói đang đầy — bỏ qua câu này"
+  },
+  {
+    "messageID": "log_tts_queue_full",
+    "languageCode": "en",
+    "displayContent": "⚠️ Voice queue is full — skipping this reply"
+  },
+  {
+    "messageID": "log_voice_rate_changed",
+    "languageCode": "vi",
+    "displayContent": "Tốc độ đọc: {rate}x"
+  },
+  {
+    "messageID": "log_voice_rate_changed",
+    "languageCode": "en",
+    "displayContent": "Reading speed: {rate}x"
+  },
+  {
+    "messageID": "log_voice_no_selection",
+    "languageCode": "vi",
+    "displayContent": "Chưa chọn giọng đọc"
+  },
+  {
+    "messageID": "log_voice_no_selection",
+    "languageCode": "en",
+    "displayContent": "No voice selected yet"
+  },
+  {
+    "messageID": "log_gemini_ready",
+    "languageCode": "vi",
+    "displayContent": "Gemini sẵn sàng!"
+  },
+  {
+    "messageID": "log_gemini_ready",
+    "languageCode": "en",
+    "displayContent": "Gemini ready!"
+  },
+  {
+    "messageID": "log_gemini_no_key",
+    "languageCode": "vi",
+    "displayContent": "Chưa có Gemini API key — vào Cấu hình để nhập"
+  },
+  {
+    "messageID": "log_gemini_no_key",
+    "languageCode": "en",
+    "displayContent": "No Gemini API key — open Settings to enter one"
+  },
+  {
+    "messageID": "log_gemini_bad_key",
+    "languageCode": "vi",
+    "displayContent": "Gemini API key sai hoặc hết hạn"
+  },
+  {
+    "messageID": "log_gemini_bad_key",
+    "languageCode": "en",
+    "displayContent": "Gemini API key is invalid or expired"
+  },
+  {
+    "messageID": "log_gemini_blocked",
+    "languageCode": "vi",
+    "displayContent": "Gemini không trả lời được comment này — đã bỏ qua"
+  },
+  {
+    "messageID": "log_gemini_blocked",
+    "languageCode": "en",
+    "displayContent": "Gemini could not answer this comment — skipped"
+  },
+  {
+    "messageID": "mb_missing_gemini_title",
+    "languageCode": "vi",
+    "displayContent": "Thiếu Gemini API key"
+  },
+  {
+    "messageID": "mb_missing_gemini_title",
+    "languageCode": "en",
+    "displayContent": "Missing Gemini API key"
+  },
+  {
+    "messageID": "mb_missing_gemini_msg",
+    "languageCode": "vi",
+    "displayContent": "Chưa có Gemini API key. Vui lòng mở trình duyệt AI để tạo AI key."
+  },
+  {
+    "messageID": "mb_missing_gemini_msg",
+    "languageCode": "en",
+    "displayContent": "No Gemini API key found. Please open the AI ​​browser to generate an AI key."
+  },
+  {
+    "messageID": "log_gemini_failed",
+    "languageCode": "vi",
+    "displayContent": "Gemini gặp lỗi — bỏ qua comment này"
+  },
+  {
+    "messageID": "log_gemini_failed",
+    "languageCode": "en",
+    "displayContent": "Gemini error — skipped this comment"
+  },
+  {
+    "messageID": "log_gemini_exhausted",
+    "languageCode": "vi",
+    "displayContent": "Gemini hết lượt hoặc quá tải — tạm thời không trả lời được"
+  },
+  {
+    "messageID": "log_gemini_exhausted",
+    "languageCode": "en",
+    "displayContent": "Gemini quota exhausted or overloaded — cannot reply right now"
+  },
+  {
+    "messageID": "btn_open_gemini_key",
+    "languageCode": "vi",
+    "displayContent": "Mở trình duyệt AI"
+  },
+  {
+    "messageID": "btn_open_gemini_key",
+    "languageCode": "en",
+    "displayContent": "Open the AI browser"
+  },
+  {
+    "messageID": "lbl_gemini_key",
+    "languageCode": "vi",
+    "displayContent": "Gemini API key:"
+  },
+  {
+    "messageID": "lbl_gemini_key",
+    "languageCode": "en",
+    "displayContent": "Gemini API key:"
+  },
+  {
+    "messageID": "lbl_gemini_key_placeholder",
+    "languageCode": "vi",
+    "displayContent": "Dán API key, nhiều key cách nhau bằng dấu phẩy, rồi nhấn Enter"
+  },
+  {
+    "messageID": "lbl_gemini_key_placeholder",
+    "languageCode": "en",
+    "displayContent": "Paste API key(s), separate multiple with commas, then press Enter"
+  },
+  {
+    "messageID": "log_gemini_key_saved",
+    "languageCode": "vi",
+    "displayContent": "Đã lưu {count} Gemini API key"
+  },
+  {
+    "messageID": "log_gemini_key_saved",
+    "languageCode": "en",
+    "displayContent": "Saved {count} Gemini API key(s)"
+  },
+  {
+    "messageID": "log_gemini_key_cleared",
+    "languageCode": "vi",
+    "displayContent": "Đã xoá Gemini API key"
+  },
+  {
+    "messageID": "log_gemini_key_cleared",
+    "languageCode": "en",
+    "displayContent": "Gemini API key cleared"
+  },
+  {
+    "messageID": "log_gemini_open_page_failed",
+    "languageCode": "vi",
+    "displayContent": "Không mở được trình duyệt. Hãy vào aistudio.google.com/apikey thủ công."
+  },
+  {
+    "messageID": "log_gemini_open_page_failed",
+    "languageCode": "en",
+    "displayContent": "Could not open the browser. Please visit aistudio.google.com/apikey manually."
+  },
+  {
+    "messageID": "lbl_gemini_key_count",
+    "languageCode": "vi",
+    "displayContent": "({count} key)"
+  },
+  {
+    "messageID": "lbl_gemini_key_count",
+    "languageCode": "en",
+    "displayContent": "({count} key)"
+  }
+]

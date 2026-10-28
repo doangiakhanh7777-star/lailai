@@ -1,0 +1,7 @@
+Dẫn đường thông minh
+Cánh báo vượt quá tốc độ
+Cảnh báo Camera phạt nguội
+Cảnh báo đường cấm, cấm dừng/đỗ
+Cảnh báo đoạn đường cấm vượt
+Thông báo phí qua trạm cao tốc
+Tự động cập nhật dữ liệu giao thông 1 tuần 1 lần
